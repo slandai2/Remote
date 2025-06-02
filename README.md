@@ -12,3 +12,8 @@ This repo is for **GitHub** *training*.
 ## Outcome 
 * outcome 1
 * outcome 2
+
+## Third one
+
+* Things are happening
+* again
